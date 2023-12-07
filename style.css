@@ -16,6 +16,7 @@ body{
     background-color: #292828;
     font-weight: bolder;
     border-radius: 4px 30px;
+    opacity: 1;
 }
 header{
     display: flex;
